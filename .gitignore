@@ -1,0 +1,15 @@
+# KiCad lock files, backups, history
+*.lck
+*-backups/
+.history/
+*.kicad_prl
+_autosave-*
+*.bak
+*.bck
+*-bak
+*~
+fp-info-cache
+
+# Windows
+Thumbs.db
+desktop.ini
